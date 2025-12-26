@@ -1,0 +1,28 @@
+Ali Khan
+Data Engineer
+
+Professional Summary
+Data Engineer with 3+ years of experience building scalable ETL pipelines and data platforms.
+Strong background in Python, SQL, and cloud-based data solutions.
+
+Technical Skills
+- Python
+- SQL
+- ETL Pipelines
+- Apache Airflow
+- Data Warehousing
+- AWS (S3, Redshift)
+- Data Modeling
+- Git
+- Docker
+- Spark
+
+Experience
+Data Engineer – ABC Tech
+- Designed and maintained ETL pipelines using Python and Airflow
+- Built data warehouses on AWS
+- Optimized SQL queries for analytics workloads
+- Collaborated with data scientists and analysts
+
+Education
+BS Computer Science

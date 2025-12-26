@@ -1,0 +1,2 @@
+We are hiring a Backend Developer. Required skills: Python, Django, PostgreSQL, Docker, AWS. 
+Good communication and experience with Git is a plus.
