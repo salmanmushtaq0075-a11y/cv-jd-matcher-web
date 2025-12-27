@@ -414,7 +414,7 @@ with tabs[1]:
 
 
         # ---------- Export tab ----------
-        with tabs[4]:
+        with tabs[3]:
             st.markdown('<div class="glass">', unsafe_allow_html=True)
             st.markdown('<div class="section-title">⬇ Export</div>', unsafe_allow_html=True)
 
@@ -433,3 +433,4 @@ with tabs[1]:
                 use_container_width=True,
             )
             st.markdown('</div>', unsafe_allow_html=True)
+
